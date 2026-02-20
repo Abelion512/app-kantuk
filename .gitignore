@@ -1,0 +1,13 @@
+.gradle
+build
+/app/build
+*.hprof
+*.pyc
+.DS_Store
+.idea
+*.iml
+local.properties
+.externalNativeBuild
+.cxx
+captures/
+.vite
