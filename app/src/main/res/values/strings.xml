@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SleepSafe</string>
+    <string name="dashboard_title">Beranda</string>
+    <string name="ready_status">Siap</string>
+    <string name="to_monitor">Monitoring</string>
+    <string name="last_session">Sesi Terakhir</string>
+    <string name="avg_ear">Rata-rata EAR</string>
+    <string name="normal_range">Rentang Normal</string>
+    <string name="start_monitoring">Mulai Monitoring</string>
+    <string name="calibration_title">Kalibrasi Wajah</string>
+    <string name="calibration_desc">Posisikan wajah Anda di dalam bingkai dan berkedip secara alami selama 10 detik.</string>
+    <string name="cancel">Batal</string>
+    <string name="face_alignment">Penyelarasan Wajah</string>
+    <string name="keep_focused">Tetap Fokus</string>
+    <string name="end_monitoring">Akhiri</string>
+    <string name="drowsiness_detected">Kantuk Terdeteksi!</string>
+    <string name="pull_over">Hentikan Penggunaan Device</string>
+    <string name="i_am_awake">Saya Terjaga</string>
+    <string name="find_rest_area">Cari Tempat Istirahat</string>
+</resources>
